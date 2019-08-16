@@ -1,5 +1,5 @@
 ---
-title: "Racordon TV"
+title: "Rac TV"
 description: "Description du site Racordon TV."
 featured_image: '/images/pexels-photo-67654.jpg'
 ---
