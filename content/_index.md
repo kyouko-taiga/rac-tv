@@ -4,7 +4,7 @@ description: "Technicien Audio Vidéo"
 featured_image: '/images/header2.png'
 ---
 
-Réglages TV
+**Réglages TV
 
 TNT – Cablecom – Swisscom – Satellite
 
@@ -14,4 +14,4 @@ TV-DVD-vidéo-HDD-décodeurs-antennes-hifi
 
 Rapidement et à domicile
 
-Région Genève
+Région Genève**
