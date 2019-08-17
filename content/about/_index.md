@@ -3,7 +3,7 @@ title: "Prestations"
 description: "Tous mes services et prestations"
 featured_image: '/images/header2.png'
 ---
-![Réparations](/images/boutons/reparation.png)
+![Réparations](/images/reparation.png)
 Réparations
 ===========
 * Réparations TV
@@ -13,7 +13,7 @@ Réparations
 
 Devis à domicile avant réparation
 
-![Installation](/images/boutons/installation.png)
+![Installation](/images/installation.png)
 Installations
 =============
 * Installation TV/enregistreurs/HDD/DVD toutes marques
