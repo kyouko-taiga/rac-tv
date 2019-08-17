@@ -1,6 +1,6 @@
 baseURL = "http://rac-tv.com/"
 languageCode = "fr-ch"
-title = "rac-tv"
+title = "Rac-TV"
 theme = "ananke"
 
 DefaultContentLanguage = "fr"
