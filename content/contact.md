@@ -19,19 +19,23 @@ menu:
   <fieldset id="fs-frm-inputs">
 
     <label for="full-name">Nom</label>
-    <input type="text" name="name" id="full-name" placeholder="" required="">
+    <input type="text" name="name" id="full-name" placeholder="Obligatoire" required="">
+
 
     <label for="email-address">Email</label>
     <input type="email" name="_replyto" id="email-address" placeholder="" required="">
 
+
     <label for="telephone">Téléphone</label>
-    <input type="telephone" name="telephone" id="telephone" placeholder="">
+    <input type="telephone" name="telephone" id="telephone" placeholder="Obligatoire">
+
 
     <label for="adresse">Adresse</label>
     <input type="adresse" name="adresse" id="adresse" placeholder="">
 
     <label for="message">Message</label>
     <textarea rows="6" name="message" id="message" placeholder="Votre message ici" required=""></textarea>
+
 
     <input type="hidden" name="_subject" id="email-subject" value="Complaint Form Submission">
   </fieldset>
