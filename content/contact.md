@@ -13,7 +13,7 @@ menu:
 
 **Adresse** : CP 120 – 1255 Veyrier
 
-Formulaire de contact :
+**Formulaire de contact** :
 
 <form action="https://formspree.io/rac.tv.ge@gmail.com" method="POST" />
 
@@ -28,5 +28,5 @@ Message :
 Email :
 
   <input type="email" name="_replyto">
-  <input type="submit" value="Send">
+  <input type="submit" value="Envoyer">
 </form>
