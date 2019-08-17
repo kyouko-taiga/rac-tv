@@ -16,8 +16,17 @@ menu:
 Formulaire de contact :
 
 <form action="https://formspree.io/rac.tv.ge@gmail.com" method="POST" />
-  <input type="text" name="Nom">
-  <input type="text" name="Message">
+
+Nom :
+
+  <input type="text" name="name">
+
+Message :
+
+  <input type="text" name="message">
+
+Email :
+
   <input type="email" name="_replyto">
   <input type="submit" value="Send">
 </form>
