@@ -1,6 +1,6 @@
 ---
 title: "Prestations"
-description: "Tous mes services et prestations"
+description: "Tous les services et prestations"
 featured_image: '/images/header2.png'
 ---
 ![Réparations](/images/reparation.png)
