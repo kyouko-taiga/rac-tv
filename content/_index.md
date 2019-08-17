@@ -4,7 +4,7 @@ description: "Technicien Audio Vidéo"
 featured_image: '/images/header2.png'
 ---
 
-**Réglages TV
+Réglages TV
 
 TNT – Cablecom – Swisscom – Satellite
 
