@@ -12,6 +12,6 @@ Installations – explications – réparations
 
 TV-DVD-vidéo-HDD-décodeurs-antennes-hifi
 
-Région Genève
-
 Rapidement et à domicile
+
+Région Genève
