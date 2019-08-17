@@ -1,5 +1,5 @@
 ---
-title: Contactez-moi
+title: Contact
 description: Page de contact
 featured_image: "images/headertel.png"
 omit_header_text: true
@@ -17,6 +17,7 @@ menu:
 
 <form id="fs-frm" name="complaint-form" accept-charset="utf-8" action="https://formspree.io/rac.tv.ge@gmail.com" method="post">
   <fieldset id="fs-frm-inputs">
+
     <label for="full-name">Nom</label>
     <input type="text" name="name" id="full-name" placeholder="" required="">
 
@@ -28,9 +29,10 @@ menu:
 
     <label for="adresse">Adresse</label>
     <input type="adresse" name="adresse" id="adresse" placeholder="">
-                                  
+
     <label for="message">Message</label>
     <textarea rows="6" name="message" id="message" placeholder="Votre message ici" required=""></textarea>
+
     <input type="hidden" name="_subject" id="email-subject" value="Complaint Form Submission">
   </fieldset>
   <input type="submit" value="Envoyer">
