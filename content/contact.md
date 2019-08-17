@@ -15,5 +15,9 @@ menu:
 
 Formulaire de contact :
 
-
-{{< form-contact action="https://example.com"  >}}
+<form action="https://formspree.io/rac.tv.ge@gmail.com" method="POST" />
+  <input type="text" name="Nom">
+  <input type="text" name="Message">
+  <input type="email" name="_replyto">
+  <input type="submit" value="Send">
+</form>
