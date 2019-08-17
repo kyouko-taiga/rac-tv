@@ -15,20 +15,19 @@ menu:
 
 **Formulaire de contact** :
 
-<form id="fs-frm" name="department-contact-form" accept-charset="utf-8" action="https://formspree.io/rac.tv.ge@gmail.com" method="post">
+<form id="fs-frm" name="complaint-form" accept-charset="utf-8" action="https://formspree.io/YOUR_EMAIL_HERE" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Nom</label>
-    <input type="text" name="name" id="full-name" placeholder=" " required="">
-
-    <label for="email-address">Adresse Email  </label>
-    <input type="email" name="_replyto" id="email-address" placeholder=" " required="">
-
-    <label for="tel">Téléphone</label>
-    <input type="text" name="name" id="tel" placeholder=" " required="">
-    
+    <input type="text" name="name" id="full-name" placeholder="" required="">
+    <label for="email-address">Email</label>
+    <input type="email" name="_replyto" id="email-address" placeholder="" required="">
+    <label for="telephone">Téléphone</label>
+    <input type="telephone" name="telephone" id="telephone" placeholder="">
+      <label for="adresse">Adresse</label>
+    <input type="adresse" name="adresse" id="adresse" placeholder="">
     <label for="message">Message</label>
-    <textarea rows="5" name="message" id="message" placeholder="Votre message ici" required=""></textarea>
-    <input type="hidden" name="_subject" id="email-subject" value="Department Contact Form Submission">
+    <textarea rows="6" name="message" id="message" placeholder="Votre message ici" required=""></textarea>
+    <input type="hidden" name="_subject" id="email-subject" value="Complaint Form Submission">
   </fieldset>
-  <input type="submit" value="Envoyer le message">
+  <input type="submit" value="Envoyer">
 </form>
