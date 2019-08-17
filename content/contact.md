@@ -15,18 +15,17 @@ menu:
 
 **Formulaire de contact** :
 
-<form action="https://formspree.io/rac.tv.ge@gmail.com" method="POST" />
-
-Nom :
-
-  <input type="text" name="name">
-
-Message :
-
-  <input type="text" name="message">
-
-Email :
-
-  <input type="email" name="_replyto">
-  <input type="submit" value="Envoyer">
+<form id="fs-frm" name="department-contact-form" accept-charset="utf-8" action="https://formspree.io/rac.tv.ge@gmail.com" method="post">
+  <fieldset id="fs-frm-inputs">
+    <label for="full-name">Nom</label>
+    <input type="text" name="name" id="full-name" placeholder="Nom Prénom" required="">
+    <label for="email-address">Adresse Email  </label>
+    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.com" required="">
+    <label for="tel">Téléphone</label>
+    <input type="text" name="name" id="tel" placeholder="Numéro de téléphone" required="">
+    <label for="message">Message</label>
+    <textarea rows="5" name="message" id="message" placeholder="Votre message ici" required=""></textarea>
+    <input type="hidden" name="_subject" id="email-subject" value="Department Contact Form Submission">
+  </fieldset>
+  <input type="submit" value="Send Message">
 </form>
