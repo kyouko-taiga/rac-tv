@@ -1,6 +1,6 @@
 ---
 title: "Prestations"
-description: "Toutes mes prestations et services"
+description: "Tout mes services et prestations"
 featured_image: '/images/header2.png'
 ---
 
