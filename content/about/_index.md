@@ -2,7 +2,6 @@
 title: "Prestations"
 description: "Tous les services et prestations"
 featured_image: '/images/header2.png'
-img[alt$="taille"] {width:25%;height:25%;}
 ---
 ![taille](/images/reparation.png)
 **Réparations** (25%)
