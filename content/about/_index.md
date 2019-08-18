@@ -13,8 +13,8 @@ featured_image: '/images/header2.png'
 
 **Devis à domicile avant réparation**
 
-![Installation](/images/installation.png =50x50)
-**Installations** (50x50)
+![Installation](/images/installation.png)
+**Installations**
 =============
 * Installation TV/enregistreurs/HDD/DVD toutes marques
 * Installation Swisscom TV/Sunrise TV
