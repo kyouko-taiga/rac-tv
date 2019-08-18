@@ -3,7 +3,7 @@ title: "Prestations"
 description: "Tous les services et prestations"
 featured_image: '/images/header2.png'
 ---
-<img src=""/images/reparation.png" /> **Réparations** (20x20 sans")
+<img src=""/images/reparation.png" /> **Réparations** (20x20)
 =============
 * Réparations TV
 * Réparations DVD/HDD
@@ -12,8 +12,7 @@ featured_image: '/images/header2.png'
 
 **Devis à domicile avant réparation**
 
-![Installation](/images/installation.png)
-**Installations**
+![Installation](/images/installation.png) **Installations**
 =============
 * Installation TV/enregistreurs/HDD/DVD toutes marques
 * Installation Swisscom TV/Sunrise TV
