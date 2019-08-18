@@ -5,7 +5,7 @@ featured_image: '/images/header2.png'
 img[alt$="taille"] {width:25%;height:25%;}
 ---
 ![taille](/images/reparation.png)
-**Réparations** 50x50
+**Réparations** (25%)
 =============
 * Réparations TV
 * Réparations DVD/HDD
