@@ -4,7 +4,7 @@ description: "Tous les services et prestations"
 featured_image: '/images/header2.png'
 ---
 ![Réparations](/images/reparation.png) **Réparations**
-===========
+
 * Réparations TV
 * Réparations DVD/HDD
 * Réparations antennes
@@ -40,7 +40,7 @@ featured_image: '/images/header2.png'
 * Explications hifi/radio/DAB toutes marques
 
 ![Satellite](/images/satellite.png)
-**Satellite**
+**Satellites**
 =============
 * Installation d'antennes satellite
 * Mise en service décodeurs
