@@ -3,7 +3,7 @@ title: "Prestations"
 description: "Tous les services et prestations"
 featured_image: '/images/header2.png'
 ---
-<img src="/images/reparation.png" width="100" height="25" />
+<img src="/images/reparation.png" width="100" height="100" />
 **Réparations**
 =============
 * Réparations TV
