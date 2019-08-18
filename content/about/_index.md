@@ -3,8 +3,8 @@ title: "Prestations"
 description: "Tous les services et prestations"
 featured_image: '/images/header2.png'
 ---
-**100x250** <img src="/images/reparation.png" width="100px" height="250px" />
-**Réparations**
+<img src="/images/reparation.png" width="10px" height="250px" />
+**Réparations** 10x250
 =============
 * Réparations TV
 * Réparations DVD/HDD
