@@ -7,23 +7,23 @@ Chaines suisses : Abandon de la TNT au 3 juin 2019
 
 A partir du 3 juin 2019, les programmes tv de la SSR ne seront plus diffusés par antenne (TNT). Pour savoir si vous êtes concerné et, le cas échéant, ce que vous devez faire, lisez ce qui suit.
 
-Suis-je concerné?
+**Suis-je concerné ?**
 
 Vous êtes concerné si:
 
 vous utilisez une antenne de toit ou une antenne intérieure pour capter les programmes tv de la SSR;
 après le 3 juin, seule une image fixe apparaît à l'écran, voire plus aucune image.
 
-Que dois-je faire?
+**Que dois-je faire ?**
 
 Si vous êtes concerné, vous avez jusqu'au 3 juin pour passer à un autre mode de réception.
 Les alternatives suivantes sont possibles:
 
-satellite (DVB-S)
-réseau câblé (DVB-C)
-réception via Internet (télévision IP avec décodeur ou streaming)
+* satellite (DVB-S)
+* réseau câblé (DVB-C)
+* réception via Internet (télévision IP avec décodeur ou streaming)
 
-Questions fréquemment posées
+**Questions fréquemment posées**
 
 Pourquoi la SSR abandonne-t-elle la TNT?
 
@@ -42,7 +42,7 @@ Comment la SSR m'informera-t-elle?
 A peine 2 % des foyers disposant d'un téléviseur sont concernés. Les utilisateurs seront informés directement via leur écran de télévision: plusieurs mois avant l'abandon de la TNT, des messages d'information apparaîtront. Après le 3 juin, seule une image fixe renvoyant à notre site web et à notre service d'assistance technique apparaîtra encore à l'écran.
 
 
-Comment la SSR peut-elle m'aider?
+**Comment la SSR peut-elle m'aider ?**
 
 Via son site web d'information www.dvbt-switch.ch et son service d'assistance technique 0848 88 55 33.
 
@@ -52,14 +52,14 @@ Je reçois les programmes tv de la SSR par le câble ou la prise du téléphone.
 Vous n'êtes pas concerné par le changement. Vous continuerez à recevoir vos programmes via le mode de réception habituel. En cas de brouillage de l'image, veuillez contacter un revendeur spécialisé.
 
 
-Je reçois les programmes tv de la SSR par satellite. Que dois-je faire?
+**Je reçois les programmes tv de la SSR par satellite. Que dois-je faire ?**
 
 Vous n'êtes pas concerné par le changement. Vous continuerez à recevoir vos programmes tv via le mode de réception habituel.
 
 Après le 3 juin, je ne reçois plus les programmes tv de la SSR et ne vois plus qu'une image fixe à l'écran. Que dois-je faire?
 Les programmes tv de la SSR ne sont plus diffusés via la TNT. Veuillez choisir un mode de réception alternatif.
 
-Qu'est-ce que la TNT?
+**Qu'est-ce que la TNT ?**
 TNT est le nom abrégé de «télévision numérique terrestre» et désigne la télévision numérique diffusée par voie hertzienne, que l'on capte avec une antenne. Les cinq chaînes tv de la SSR sont diffusées dans des configurations variant d'une région linguistique à l'autre.
 
 
