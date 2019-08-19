@@ -30,11 +30,11 @@ menu:
     <input type="telephone" name="telephone" id="telephone" placeholder="Téléphone">
     <br />
 
-    <label for="email-address">Email</label>
-    <input type="email" name="_replyto" id="email-address" placeholder="" required="">
+    <label for="email-address"></label>
+    <input type="email" name="_replyto" id="email-address" placeholder="Email" required="">
     <br />
 
-    <label for="message">Message</label>
+    <label for="message"></label>
     <textarea rows="6" name="message" id="message" placeholder="Votre message ici" required=""></textarea>
 
     <input type="hidden" name="_subject" id="email-subject" value="Complaint Form Submission">
