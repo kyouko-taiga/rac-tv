@@ -19,18 +19,21 @@ menu:
 <form id="fs-frm" name="complaint-form" accept-charset="utf-8" action="https://formspree.io/rac.tv.ge@gmail.com" method="post">
   <fieldset id="fs-frm-inputs">
 
-    <label for="full-name">Nom</label>
-    <input type="text" name="name" id="full-name" placeholder="Obligatoire" required="">
+    <label for="full-name"></label>
+    <input type="text" name="name" id="full-name" placeholder="Nom Prénom" required="">
     <br />
+
+    <label for="adresse"></label>
+    <input type="adresse" name="adresse" id="adresse" placeholder="Adresse">
+    <br />
+    <label for="telephone"></label>
+    <input type="telephone" name="telephone" id="telephone" placeholder="Téléphone">
+    <br />
+
     <label for="email-address">Email</label>
     <input type="email" name="_replyto" id="email-address" placeholder="" required="">
     <br />
-    <label for="telephone">Téléphone</label>
-    <input type="telephone" name="telephone" id="telephone" placeholder="Obligatoire">
-    <br />
-    <label for="adresse">Adresse</label>
-    <input type="adresse" name="adresse" id="adresse" placeholder="">
-    <br />
+
     <label for="message">Message</label>
     <textarea rows="6" name="message" id="message" placeholder="Votre message ici" required=""></textarea>
 
