@@ -13,7 +13,7 @@ menu:
 
 **Adresse** : CP 120 – 1255 Veyrier
 
- 
+
 **Formulaire de contact** :
 
 <form id="fs-frm" name="complaint-form" accept-charset="utf-8" action="https://formspree.io/rac.tv.ge@gmail.com" method="post">
@@ -26,6 +26,7 @@ menu:
     <label for="adresse"></label>
     <input type="adresse" name="adresse" id="adresse" placeholder="Adresse">
     <br />
+    
     <label for="telephone"></label>
     <input type="telephone" name="telephone" id="telephone" placeholder="Téléphone">
     <br />
