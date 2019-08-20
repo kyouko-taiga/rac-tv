@@ -4,7 +4,7 @@ description: "Technicien Audio Vidéo"
 featured_image: '/images/header.png'
 ---
 
-Technicien à domicile depuis plus de 25 ans
+**Technicien à domicile depuis plus de 25 ans
 <br />
 Région Genève
 <br />
