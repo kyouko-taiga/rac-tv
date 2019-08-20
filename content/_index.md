@@ -6,7 +6,7 @@ featured_image: '/images/header.png'
 
 **Technicien à domicile depuis plus de 25 ans**
 <br />
-*Région Genève*
+**Région Genève**
 <br />
 <br />
 **Spécialiste**
