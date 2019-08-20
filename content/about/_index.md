@@ -3,15 +3,14 @@ title: "Prestations"
 description: "Tous les services et prestations"
 featured_image: '/images/header.png'
 ---
-<img src="/images/rep20x20.png" />
-**Réparations**
+![Réglages](/images/reglage.png)
+**Réglages**
 =============
-* Réparations TV
-* Réparations DVD/HDD
-* Réparations antennes
-* Réparations hifi
-
-**Devis à domicile avant réparation**
+* Réglages TV toutes marques
+* Réglages Swisscom TV/Sunrise TV
+* Réglages HDD/DVD toutes marques
+* Réglages décodeurs TNT/câble/TVip
+* Réglages audio hifi/radio/DAB toutes marques
 
 ![Installation](/images/installation.png)
 **Installations**
@@ -22,15 +21,6 @@ featured_image: '/images/header.png'
 * Installation décodeurs TNT/câble/TVip
 * Installation audio hifi/câblage HP
 
-![Réglages](/images/reglage.png)
-**Réglages**
-=============
-* Réglages TV toutes marques
-* Réglages Swisscom TV/Sunrise TV
-* Réglages HDD/DVD toutes marques
-* Réglages décodeurs TNT/câble/TVip
-* Réglages audio hifi/radio/DAB toutes marques
-
 ![Explications](/images/explication.png)
 **Explications**
 =============
@@ -39,6 +29,16 @@ featured_image: '/images/header.png'
 * Explications Replay
 * Explications pas à pas de l'enregistrement/programmation
 * Explications hifi/radio/DAB toutes marques
+
+![Réparations](/images/reparation.png)
+**Réparations**
+=============
+* Réparations TV
+* Réparations DVD/HDD
+* Réparations antennes
+* Réparations hifi
+
+**Devis à domicile avant réparation**
 
 ![Satellite](/images/satellite.png)
 **Satellites**
