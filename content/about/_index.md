@@ -1,7 +1,7 @@
 ---
 title: "Prestations"
 description: "Tous les services et prestations"
-featured_image: '/images/header2.png'
+featured_image: '/images/header.png'
 ---
 <img src="/images/rep20x20.png" />
 **Réparations**
