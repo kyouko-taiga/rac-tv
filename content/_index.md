@@ -1,7 +1,7 @@
 ---
 title: "Racordon Yvan"
 description: "Technicien Audio Vidéo"
-featured_image: '/images/header2.png'
+featured_image: '/images/header.png'
 ---
 
 Réglages TV
