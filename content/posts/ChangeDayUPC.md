@@ -1,6 +1,6 @@
 ---
 weight: 6
-title: "Changement de fréquences chez UPC Cablecom"
+title: "Changement de fréquences chez UPC Cablecom/Naxoo"
 date: 2019-08-21T12:00:00-05:00
 ---
 
@@ -18,5 +18,6 @@ Les clients concernés sont les détenteurs de :
 * HD Mediabox Receiver/Recorder
 * Convertisseur
 
+Certaines TV récentes feront cette mise à jour automatiquement.
 
 Les détenteurs de la nouvelle UPC TV Box ne sont pas concernés, les réglages se feront automatiquement.
