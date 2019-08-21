@@ -1,7 +1,7 @@
 ---
 weight: 6
 title: "Liste des chaînes gratuites TNT région Genève"
-date: 2017-03-02T12:00:00-05:00
+date: 2019-08-19T12:00:00-05:00
 ---
 TF1
 France 2

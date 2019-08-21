@@ -1,7 +1,7 @@
 ---
 weight: 6
 title: "Chaînes suisses : abandon de la diffusion TNT"
-date: 2017-03-02T12:00:00-05:00
+date: 2019-06-03T12:00:00-05:00
 ---
 Chaines suisses : Abandon de la TNT au 3 juin 2019
 
