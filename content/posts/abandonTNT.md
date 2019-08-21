@@ -42,12 +42,7 @@ Comment la SSR m'informera-t-elle?
 A peine 2 % des foyers disposant d'un téléviseur sont concernés. Les utilisateurs seront informés directement via leur écran de télévision: plusieurs mois avant l'abandon de la TNT, des messages d'information apparaîtront. Après le 3 juin, seule une image fixe renvoyant à notre site web et à notre service d'assistance technique apparaîtra encore à l'écran.
 
 
-**Comment la SSR peut-elle m'aider ?**
-
-Via son site web d'information www.dvbt-switch.ch et son service d'assistance technique 0848 88 55 33.
-
-
-Je reçois les programmes tv de la SSR par le câble ou la prise du téléphone. Que dois-je faire?
+**Je reçois les programmes tv de la SSR par le câble ou la prise du téléphone. Que dois-je faire ?**
 
 Vous n'êtes pas concerné par le changement. Vous continuerez à recevoir vos programmes via le mode de réception habituel. En cas de brouillage de l'image, veuillez contacter un revendeur spécialisé.
 
@@ -63,4 +58,5 @@ Les programmes tv de la SSR ne sont plus diffusés via la TNT. Veuillez choisir 
 TNT est le nom abrégé de «télévision numérique terrestre» et désigne la télévision numérique diffusée par voie hertzienne, que l'on capte avec une antenne. Les cinq chaînes tv de la SSR sont diffusées dans des configurations variant d'une région linguistique à l'autre.
 
 
-Plus d'informations : www.tnt-switch.ch
+Plus d'informations :
+<a href="https://www.tnt-switch.ch/" target="_blank">www.tnt-switch.ch</a>

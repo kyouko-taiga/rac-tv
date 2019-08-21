@@ -15,7 +15,9 @@ featured_image: '/images/header.png'
 * Réglages décodeurs TNT/câble/TVip
 * Réglages audio hifi/radio/DAB toutes marques
 
-![Installation](/images/installation.png)
+<div style="display: flex;justify-content: space-evenly;">
+  <img src="/images/installation.png" alt="Installation" style="width: auto;">
+</div>
 **Installations**
 =============
 * Installation TV/enregistreurs/HDD/DVD toutes marques
@@ -24,7 +26,9 @@ featured_image: '/images/header.png'
 * Installation décodeurs TNT/câble/TVip
 * Installation audio hifi/câblage HP
 
-![Explications](/images/explication.png)
+<div style="display: flex;justify-content: space-evenly;">
+  <img src="/images/explication.png" alt="Explications" style="width: auto;">
+</div>
 **Explications**
 =============
 * Explications du fonctionnement TV/enregistreurs toutes marques
@@ -33,7 +37,9 @@ featured_image: '/images/header.png'
 * Explications pas à pas de l'enregistrement/programmation
 * Explications hifi/radio/DAB toutes marques
 
-![Réparations](/images/reparation.png)
+<div style="display: flex;justify-content: space-evenly;">
+  <img src="/images/reparation.png" alt="Réparations" style="width: auto;">
+</div>
 **Réparations**
 =============
 * Réparations TV
@@ -43,7 +49,9 @@ featured_image: '/images/header.png'
 
 **Devis à domicile avant réparation**
 
-![Satellite](/images/satellite.png)
+<div style="display: flex;justify-content: space-evenly;">
+  <img src="/images/satellite.png" alt="Satellites" style="width: auto;">
+</div>
 **Satellites**
 =============
 * Installation d'antennes satellite
@@ -51,7 +59,9 @@ featured_image: '/images/header.png'
 * Programmation des chaînes
 * Listes de favoris
 
-![Antenne](/images/antenne.png)
+<div style="display: flex;justify-content: space-evenly;">
+  <img src="/images/antenne.png" alt="Antennes" style="width: auto;">
+</div>
 **Antennes**
 =============
 * Installation d'antennes terrestre
