@@ -3,7 +3,10 @@ title: "Prestations"
 description: "Tous les services et prestations"
 featured_image: '/images/header.png'
 ---
-![Réglages](/images/reglage.png)
+
+<div style="display: flex;justify-content: space-evenly;">
+  <img src="/images/reglage.png" alt="Réglages" style="width: auto;">
+</div>
 **Réglages**
 =============
 * Réglages TV toutes marques
