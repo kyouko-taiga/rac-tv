@@ -32,4 +32,4 @@ Je : 8h/20h
 Ve : 8h/17h
 <br />
 Nb de visites :
-<a href="https://www.compteurdevisite.com" title="compteur de visites"><img src="https://counter7.wheredoyoucomefrom.ovh/private/compteurdevisite.php?c=2tnyp2643l2gpu7pnhter3b7k4l6kp6u" border="0" title="compteur de visites" alt="compteur de visites"></a>
+<a href="https://www.compteurdevisite.com" title="compteur"><img src="https://counter7.wheredoyoucomefrom.ovh/private/compteurdevisite.php?c=mw4z94rwse9gfg1n5qp59fqmg3j3un8q" border="0" title="compteur" alt="compteur"></a>
