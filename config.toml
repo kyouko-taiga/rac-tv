@@ -20,4 +20,3 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/pexels-photo-67654.jpg"
   recent_posts_number = 2
-  show_reading_time = true
