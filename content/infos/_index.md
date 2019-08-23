@@ -2,11 +2,9 @@
 title: Infos utiles
 description: Listes de chaines et infos
 featured_image: "images/header.png"
-omit_header_text: true
-type: page
-menu:
-  main: {}
+date: 2017-03-02T12:00:00-05:00
 ---
+
 <center>
 HORAIRES D'OUVERTURE :
 <br />
