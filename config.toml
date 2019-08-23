@@ -18,5 +18,5 @@ enableRobotsTXT = true
   favicon = ""
   description = "Racordon TV"
   background_color_class = "bg-black"
-  featured_image = "/images/pexels-photo-67654.jpg"
-  recent_posts_number = 2
+  featured_image = "/images/header.jpg"
+  recent_posts_number = 6
