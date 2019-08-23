@@ -1,6 +1,6 @@
 ---
 title: Infos utiles
-description: Listes de chaines
+description: Listes de chaines et infos
 featured_image: "images/header.png"
 omit_header_text: true
 type: page
