@@ -1,6 +1,6 @@
 ---
 title: Contact
-description: Page de contact
+description: page de contact
 featured_image: "images/headertel.png"
 omit_header_text: true
 type: page
@@ -30,10 +30,3 @@ menu:
   <br />
   <button type="submit">Envoyer</button>
 </form>
-
-
-
-<br />
-Nb de visites :
-<a href="https://www.compteurdevisite.com" title="compteur de visite"><img src="https://counter7.wheredoyoucomefrom.ovh/private/compteurdevisite.php?c=ed2w25wxufpb78qec3nthbx7z55jktc6&FCS_coef=1" border="0" title="compteur de visite" alt="compteur de visite"></a>
-</center>
