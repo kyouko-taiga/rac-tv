@@ -1,5 +1,5 @@
 ---
-title: Infos utiles
+title: "Infos utiles"
 description: "Listes de chaines et infos"
 featured_image: "images/header.png"
 date: 2017-03-02T12:00:00-05:00
