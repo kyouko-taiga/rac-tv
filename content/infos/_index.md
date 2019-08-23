@@ -24,6 +24,6 @@ Sa Di : Fermé
 Nb de visites :
 <a href="https://www.compteurdevisite.com" title="compteur pour site">
 <div style="display: flex;justify-content: space-evenly;">
-  <img src="https://counter7.wheredoyoucomefrom.ovh/private/compteurdevisite.php?c=644y1m5m7b15w3189p52plcg5kzlpgy9" border="0" title="compteur pour site" alt="compteur pour site" style="width: auto;">
+  <img src="https://counter7.wheredoyoucomefrom.ovh/private/compteurdevisite.php?c=uy9622cxww3dscr8kc6pjnr8r7ru1n7b" border="0" title="compteur" alt="compteur" style="width: auto;">
 </div>
 </a>
