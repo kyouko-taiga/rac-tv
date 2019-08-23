@@ -19,6 +19,11 @@ Je : 8h/20h
 Ve : 8h/17h
 <br />
 Sa Di : Fermé
-----
+<br />
+
 Nb de visites :
-<a href="https://www.compteurdevisite.com" title="compteur pour site"><img src="https://counter7.wheredoyoucomefrom.ovh/private/compteurdevisite.php?c=644y1m5m7b15w3189p52plcg5kzlpgy9" border="0" title="compteur pour site" alt="compteur pour site"></a>
+
+<div style="display: flex;justify-content: space-evenly;">
+<a href="https://www.compteurdevisite.com" title="compteur pour site"><img src="https://counter7.wheredoyoucomefrom.ovh/private/compteurdevisite.php?c=644y1m5m7b15w3189p52plcg5kzlpgy9" border="0" title="compteur" alt="compteur" style="width: auto;>
+</a>
+</div>
