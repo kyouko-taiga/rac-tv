@@ -21,15 +21,8 @@ featured_image: '/images/header.png'
 <br />
 HORAIRES D'OUVERTURE :
 <br />
-Lu : 8h/20h
+Lu : 8h/20h     Je : 8h/20h
 <br />
-Ma : 8h/20h
+Ma : 8h/20h     Ve : 8h/17h
 <br />
-Me : 8h/20h
-<br />
-Je : 8h/20h
-<br />
-Ve : 8h/17h
-<br />
-Nb de visites :
-<a href="https://www.compteurdevisite.com" title="compteur de visite"><img src="https://counter7.wheredoyoucomefrom.ovh/private/compteurdevisite.php?c=ed2w25wxufpb78qec3nthbx7z55jktc6" border="0" title="compteur de visite" alt="compteur de visite"></a>
+Me : 8h/20h     Sa Di : Fermé
