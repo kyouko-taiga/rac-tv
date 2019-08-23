@@ -32,6 +32,7 @@ menu:
 </form>
 
 <br />
+<center>
 HORAIRES D'OUVERTURE :
 <br />
 Lu : 8h/20h
@@ -46,6 +47,8 @@ Ve : 8h/17h
 <br />
 Sa Di : Fermé
 
+
 <br />
 Nb de visites :
-<a href="https://www.compteurdevisite.com" title="compteur de visite"><img src="https://counter7.wheredoyoucomefrom.ovh/private/compteurdevisite.php?c=ed2w25wxufpb78qec3nthbx7z55jktc6&FCS_coef=0.8" border="0" title="compteur de visite" alt="compteur de visite"></a>
+<a href="https://www.compteurdevisite.com" title="compteur de visite"><img src="https://counter7.wheredoyoucomefrom.ovh/private/compteurdevisite.php?c=ed2w25wxufpb78qec3nthbx7z55jktc6&FCS_coef=1" border="0" title="compteur de visite" alt="compteur de visite"></a>
+</center>
