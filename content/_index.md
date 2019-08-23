@@ -21,8 +21,14 @@ featured_image: '/images/header.png'
 <br />
 HORAIRES D'OUVERTURE :
 <br />
-Lu : 8h/20h     Je : 8h/20h
+Lu : 8h/20h
 <br />
-Ma : 8h/20h     Ve : 8h/17h
+Ma : 8h/20h
 <br />
-Me : 8h/20h     Sa Di : Fermé
+Me : 8h/20h
+<br />
+Je : 8h/20h
+<br />
+Ve : 8h/17h
+<br />
+Sa Di : Fermé
