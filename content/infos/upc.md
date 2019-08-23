@@ -1,6 +1,6 @@
 ---
 weight: 6
-title: "Liste des chaînes gratuites UPC Cablecom"
+title: "Liste des chaines gratuites UPC Cablecom"
 date: 2019-08-19T12:00:00-05:00
 ---
 

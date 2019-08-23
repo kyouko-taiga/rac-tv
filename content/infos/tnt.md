@@ -1,6 +1,6 @@
 ---
 weight: 6
-title: "Liste des chaînes gratuites TNT région Genève"
+title: "Liste des chaines gratuites TNT région Genève"
 date: 2019-08-19T12:00:00-05:00
 ---
 TF1
