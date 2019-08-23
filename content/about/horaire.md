@@ -1,11 +1,11 @@
 ---
-title: "Informations"
-description: "Toutes les infos utiles"
+title: "HORAIRES D'OUVERTURE :"
+description: ""
 featured_image: '/images/header.png'
-date: 2017-03-02T12:00:00-05:00
+date: 2019-03-02T12:00:00-05:00
 ---
 <center>
-HORAIRES D'OUVERTURE :
+
 <br />
 Lu : 8h/20h
 <br />
