@@ -29,6 +29,5 @@ date: 2019-08-19T12:00:00-05:00
 * L'équipe
 * France Info
 * LCI
-
 * TV 8 Mont Blanc
 * Léman Bleu
