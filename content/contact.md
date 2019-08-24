@@ -34,7 +34,6 @@ menu:
 <center>
 HORAIRES D'OUVERTURE :
 ----
-<br />
 Lu : 8h/20h
 <br />
 Ma : 8h/20h
