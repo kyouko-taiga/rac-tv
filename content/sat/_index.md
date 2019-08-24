@@ -8,6 +8,6 @@ Le nombre de chaines sur les differents satellites sont très nombreuses et suce
 
 C'est pourquoi il est plus facile d'utiliset un moteur de recherche spécifique.
 
-J'utisise celui-ci :
+J'utilise celui-ci :
 
 <a href="https://fr.kingofsat.net/search.php" target="_blank">KingOfSat</a>
