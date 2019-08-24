@@ -1,10 +1,9 @@
 ---
-title: "Infos utiles"
-description: "Listes de chaines et infos"
-featured_image: "images/header.png"
+title: "Infos"
+description: "Infos générales et listes de chaines"
+featured_image: '/images/header.png'
 date: 2019-08-19T12:00:00-05:00
 ---
-
 <center>
 HORAIRES D'OUVERTURE :
 <br />
