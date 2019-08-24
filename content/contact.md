@@ -31,9 +31,9 @@ menu:
   <button type="submit">Envoyer</button>
 </form>
 
+
+**HORAIRES D'OUVERTURE** :
 <center>
-HORAIRES D'OUVERTURE :
-----
 Lu : 8h/20h
 <br />
 Ma : 8h/20h
