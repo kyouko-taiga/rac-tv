@@ -1,5 +1,5 @@
 ---
-weight: 10
+weight: 6
 title: "Liste des chaines Swisscom TV"
 date: 2019-08-19T12:00:00-05:00
 ---
