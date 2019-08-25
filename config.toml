@@ -22,7 +22,7 @@ enableRobotsTXT = true
   featured_image = "/images/header.jpg"
   recent_posts_number = 3
   disableReadingTime = false
-  sidebarMenuEnabled = true
+  sidebarRecentLimit = 5
   sidebarHeader = "Sidebar Header"
   sidebarText = """Here's a [link to google](https://www.google.com)
   </br>
@@ -32,3 +32,4 @@ enableRobotsTXT = true
   This line has two spaces in the end to create a new line using markdown
   Forth line
   """
+  sidebarMenuEnabled = true
