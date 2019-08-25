@@ -21,4 +21,4 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/header.jpg"
   recent_posts_number = 3
-  show_reading_time = true
+  sidebarHeader = "Sidebar Header"
