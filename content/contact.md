@@ -31,8 +31,7 @@ menu:
 </form>
 
 
-## HORAIRES D'OUVERTURE :
-<br />
+## Horaires d'ouverture :
 Lu : 8h/20h
 <br />
 Ma : 8h/20h
