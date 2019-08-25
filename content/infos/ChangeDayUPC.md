@@ -1,5 +1,5 @@
 ---
-weight: 9
+weight: 6
 title: "Changement de fréquences chez UPC Cablecom/Naxoo"
 date: 2019-08-21T12:00:00-05:00
 ---
