@@ -20,16 +20,5 @@ enableRobotsTXT = true
   description = "Racordon TV"
   background_color_class = "bg-black"
   featured_image = "/images/header.jpg"
-  recent_posts_number = 3
+  recent_posts_number = 2
   disableReadingTime = false
-  sidebarRecentLimit = 5
-  sidebarHeader = "Sidebar Header"
-  sidebarText = """Here's a [link to google](https://www.google.com)
-  </br>
-  Second line
-  </br>
-  Third line
-  This line has two spaces in the end to create a new line using markdown
-  Forth line
-  """
-  sidebarMenuEnabled = true
