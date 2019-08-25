@@ -1,5 +1,5 @@
 ---
-weight: 6
+weight: 1
 title: "Chaînes suisses : abandon de la diffusion TNT"
 date: 2019-06-03T12:00:00-05:00
 ---
