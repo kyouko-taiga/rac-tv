@@ -5,7 +5,7 @@ theme = "ananke"
 
 DefaultContentLanguage = "fr"
 SectionPagesMenu = "main"
-Paginate = 1
+Paginate = 9
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -20,5 +20,5 @@ enableRobotsTXT = true
   description = "Rac-TV"
   background_color_class = "bg-gray"
   featured_image = "/images/header.jpg"
-  recent_posts_number = 2
+  recent_posts_number = 20
   disableReadingTime = false
