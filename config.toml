@@ -22,3 +22,8 @@ enableRobotsTXT = true
   featured_image = "/images/header.jpg"
   recent_posts_number = 2
   disableReadingTime = false
+
+[params.social]
+  title = "email"
+  icon = "/images/emailbutton.png"
+  url = "mailto:rac.tv.ge@gmail.com"
