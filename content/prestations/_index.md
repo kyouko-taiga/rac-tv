@@ -2,6 +2,7 @@
 title: "Prestations"
 description: "Tous les services et prestations"
 featured_image: '/images/header.png'
+weight: 3
 ---
 
 <div style="display: flex;justify-content: space-evenly;">

@@ -2,6 +2,7 @@
 title: Contact
 description: page de contact
 featured_image: "images/headertel.png"
+weight: 2
 omit_header_text: true
 type: page
 menu:
