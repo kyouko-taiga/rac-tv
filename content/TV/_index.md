@@ -8,7 +8,7 @@ weight: 4
 ---
 
 ## Liste des chaines TNT gratuites
-<br />
+
 mise à jour : 03.06.2019
 <br />
 <br />
@@ -92,7 +92,7 @@ par ce mode de réception.
 ---
 
 ## Liste des chaines du câble :
-<br />
+
 mise à jour : 27.08.2019
 <br />
 Disponibles via la prise TV raccordée au réseau UPC Cablecom/Naxoo
