@@ -89,12 +89,13 @@ par ce mode de réception.
 
 <a href="https://www.upc.ch/fr/television/chaines-tv/" target="_blank">Cablecom chaines TV</a>
 
-
 ---
+
 ## Liste des chaines du câble :
-Disponibles via la prise TV raccordée au réseau UPC Cablecom/Naxoo
 <br />
 mise à jour : 27.08.2019
+<br />
+Disponibles via la prise TV raccordée au réseau UPC Cablecom/Naxoo
 <br />
 <div style="text-align:left;">
 1 RTS Un HD
