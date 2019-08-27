@@ -7,7 +7,7 @@ type: page
 weight: 4
 ---
 
-## Liste des chaines gratuites TNT région Genève
+## Liste des chaines TNT gratuites
 <br />
 mise à jour : 03.06.2019
 <br />
