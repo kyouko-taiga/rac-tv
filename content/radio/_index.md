@@ -50,7 +50,7 @@ et les auto-radios**
 
 ## DAB+
 
-**Disponible avec un poste compatible radio numérique (DAB+)**
+**Disponible avec un poste de radio numérique (DAB+)**
 
 1.	RSI Rete Uno
 2.	RTR Radio Rumantsch
