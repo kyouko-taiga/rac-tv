@@ -6,7 +6,7 @@ date: 2019-08-10T12:00:00-05:00
 type: page
 weight: 5
 ---
-<div style="text-align: right">
+<p style='text-align: left;'>
 ## Bande FM Genève :
 
 Disponible sur les radios à antenne et les auto-radios
@@ -102,4 +102,4 @@ Disponibles via la prise TV raccordée à Cablecom
 33.	  Voice of America	     103.20
 34.	  RTL Radio France	      97.30
 
-</div>
+</p>
