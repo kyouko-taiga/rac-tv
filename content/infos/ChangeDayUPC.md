@@ -24,4 +24,4 @@ Les détenteurs des box suivantes ne sont pas concernés, les réglages se feron
 * HD Mediabox Receiver/Recorder
 
 
-* Certaines téléviseurs récentes feront cette mise à jour automatiquement.
+* Certains téléviseurs récentes feront cette mise à jour automatiquement.
