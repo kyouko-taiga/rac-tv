@@ -16,7 +16,6 @@ menu:
 
 ---
 
-<br />
 ## Formulaire de contact :
 
 <form method="POST" action="https://formspree.io/rac.tv.ge@gmail.com">
@@ -32,7 +31,7 @@ menu:
   <br />
   <button type="submit">Envoyer</button>
 </form>
-
+<br />
 ---
 
 ## Horaires d'ouverture :
