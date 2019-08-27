@@ -6,7 +6,6 @@ date: 2019-08-10T12:00:00-05:00
 type: page
 weight: 4
 ---
-<p style='text-align: left;'>
 
 ## Liste des chaines gratuites TNT région Genève :
 
@@ -239,5 +238,3 @@ Disponibles via la prise TV raccordée au réseau UPC Cablecom/Naxoo
 518 Teleclub Zoom
 
 Sous réserve de modification
-
-</p>
