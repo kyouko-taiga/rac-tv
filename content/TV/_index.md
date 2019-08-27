@@ -8,8 +8,17 @@ weight: 4
 ---
 
 ## Liste des chaines gratuites TNT
-**région Genève :**
-Suite à l'abandon des émetteurs TNT le 3 juin 2019,   **il n'est plus possible** de recevoir chaines nationales Suisse par ce mode de réception.
+**région Genève :** mise à jour : 03.06.2019
+Suite à l'abandon des émetteurs TNT le 3 juin 2019,
+<br />
+**il n'est plus possible**
+<br />
+de recevoir chaines nationales Suisse
+<br />
+RTS1 RTS2 SF1 RSI1
+<br />
+par ce mode de réception.
+<br />
 
 * TF1
 * France 2
@@ -54,6 +63,7 @@ Suite à l'abandon des émetteurs TNT le 3 juin 2019,   **il n'est plus possible
 ---
 ## Liste des chaines du câble :
 Disponibles via la prise TV raccordée au réseau UPC Cablecom/Naxoo
+mise à jour : 27.08.2019
 
 1 RTS Un HD
 <br />

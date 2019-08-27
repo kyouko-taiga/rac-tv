@@ -11,73 +11,73 @@ weight: 5
 **Disponible avec un poste radio analogique (antenne)
 et les auto-radios**
 <div style="text-align:left;">
-* 87.8 	  DRS1
+1. 87.8 	  DRS1
 <br />
-* 88.4 	  LFM
+2. 88.4 	  LFM
 <br />
-* 88.8 	  R74
+3. 88.8 	  R74
 <br />
-* 89.2 	  RCF
+4. 89.2 	  RCF
 <br />
-* 89.6 	  Fr Musique
+5. 89.6 	  Fr Musique
 <br />
-* 90.1 	  Virgin Radio
+6. 90.1 	  Virgin Radio
 <br />
-* 90.5  	Fr Culture
+7. 90.5  	Fr Culture
 <br />
-* 90.8 	  Option Musique
+8. 90.8 	  Option Musique
 <br />
-* 91.2 	  RSR1
+9. 91.2 	  RSR1
 <br />
-* 91.8 	  Yes FM
+10. 91.8 	  Yes FM
 <br />
-* 92.2 	  Radio Cité
+11. 92.2 	  Radio Cité
 <br />
-* 92.7 	  Radio Orient
+12. 92.7 	  Radio Orient
 <br />
-* 93.0 	  Radio Plus
+13. 93.0 	  Radio Plus
 <br />
-* 93.8    Radio Zone
+14. 93.8    Radio Zone
 <br />
-* 94.4 	  Fr Inter
+15. 94.4 	  Fr Inter
 <br />
-* 94.9 	  RSR1
+16. 94.9 	  RSR1
 <br />
-* 96.7 	  Fr Culture
+17. 96.7 	  Fr Culture
 <br />
-* 97.1 	  Rete Uno
+18. 97.1 	  Rete Uno
 <br />
-* 97.6 	  Rouge FM
+19. 97.6 	  Rouge FM
 <br />
-* 98.9 	  Radio Plus
+20. 98.9 	  Radio Plus
 <br />
-* 100.1   Espace 2
+21. 100.1   Espace 2
 <br />
-* 100.7   Espace 2
+22. 100.7   Espace 2
 <br />
-* 100.8   Skyrock **
+23. 100.8   Skyrock **
 <br />
-* 101.1   Fr Info
+24. 101.1   Fr Info
 <br />
-* 101.7   WRS
+25. 101.7   WRS
 <br />
-* 103.2   Ethnik Radio **
+26. 103.2   Ethnik Radio **
 <br />
-* 103.6   NRJ
+27. 103.6   NRJ
 <br />
-* 104.4   Couleur 3
+28. 104.4   Couleur 3
 <br />
-* 105.0   Nostalgie
+29. 105.0   Nostalgie
 <br />
-* 105.3   DRS 3
+30. 105.3   DRS 3
 <br />
-* 105.6   Couleur 3
+31. 105.6   Couleur 3
 <br />
-* 106.1   Fr Bleu Savoie
+32. 106.1   Fr Bleu Savoie
 <br />
-* 107.0   One FM
+33. 107.0   One FM
 <br />
-* 107.7   Autoroute FM
+34. 107.7   Autoroute FM
 <br />
 ** = selon région
 </div>
