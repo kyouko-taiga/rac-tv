@@ -8,7 +8,7 @@ weight: 5
 ---
 ## Bande FM Genève :
 
-Disponible sur les radios à antenne et les auto-radios
+**Disponible sur les radios à antenne et les auto-radios**
 
 * 87.8 	  DRS1
 * 88.4 	  LFM
@@ -49,7 +49,7 @@ Disponible sur les radios à antenne et les auto-radios
 
 ## DAB+
 
-Avec un poste compatible radio numérique (DAB+) vous recevez sans publicité :
+**Disponible avec un poste compatible radio numérique (DAB+)**
 
 1.	RSI Rete Uno
 2.	RTR Radio Rumantsch
@@ -68,7 +68,7 @@ Avec un poste compatible radio numérique (DAB+) vous recevez sans publicité :
 
 ## Liste des radios FM analogiques fournies par UPC Cablecom
 
-Disponibles via la prise TV raccordée à Cablecom
+**Disponibles via la prise TV raccordée à Cablecom**
 
 1.		RTS la 1 ère	          92.40
 2.		RTS Espace 2	          93.40

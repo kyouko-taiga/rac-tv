@@ -8,7 +8,7 @@ weight: 4
 ---
 
 ## Liste des chaines gratuites TNT
-## région Genève :
+**région Genève :**
 Suite à l'abandon des émetteurs TNT le 3 juin 2019,   **il n'est plus possible** de recevoir chaines nationales Suisse par ce mode de réception.
 
 * TF1
