@@ -8,7 +8,7 @@ weight: 4
 ---
 ## Liste des chaines gratuites TNT région Genève :
 
-Suite à la suppression des émetteurs TNT le 3 juin 2019, **il n'est plus possible** de recevoir chaines nationales Suisse par ce mode de réception
+Suite à la suppression des émetteurs TNT le 3 juin 2019,   **il n'est plus possible** de recevoir chaines nationales Suisse par ce mode de réception.
 
 * TF1
 * France 2
@@ -38,8 +38,10 @@ Suite à la suppression des émetteurs TNT le 3 juin 2019, **il n'est plus possi
 * LCI
 * TV 8 Mont Blanc
 * Léman Bleu
+
 ---
-## Listes des chaînes et abonnements  des bouquets TV en suivant ces liens :  
+
+## Listes des chaînes et abonnements  des bouquets TV par internet en suivant ces liens :  
 
 <a href="https://www.swisscom.ch/fr/clients-prives/internet-television-reseaufixe/swisscom-tv/chaines/liste-chaines.html#cl%5Bdevice%5D%5B%5D=tv/" target="_blank">Swisscom TV</a>
 
