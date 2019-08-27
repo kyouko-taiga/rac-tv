@@ -9,7 +9,7 @@ weight: 5
 ## Bande FM Genève :
 
 Disponible sur les radios à antenne et les auto-radios
-<div style="text-align:left;">
+
 * 87.8 	  DRS1
 * 88.4 	  LFM
 * 88.8 	  R74
@@ -44,12 +44,13 @@ Disponible sur les radios à antenne et les auto-radios
 * 106.1   Fr Bleu Savoie
 * 107.0   One FM
 * 107.7   Autoroute FM
-</div>
+
 ---
+
 ## DAB+
 
 Avec un poste compatible radio numérique (DAB+) vous recevez sans publicité :
-<div style="text-align:left;">
+
 1.	RSI Rete Uno
 2.	RTR Radio Rumantsch
 3.	DRS Musikwelle
@@ -62,12 +63,13 @@ Avec un poste compatible radio numérique (DAB+) vous recevez sans publicité :
 10. RSR Option Musique
 11. WRS World Radio Switzerland
 12. DRS 1
-</div>
+
 ---
+
 ## Liste des radios FM analogiques fournies par UPC Cablecom
 
 Disponibles via la prise TV raccordée à Cablecom
-<div style="text-align:left;">
+
 1.		RTS la 1 ère	          92.40
 2.		RTS Espace 2	          93.40
 3.		RTS Couleur 3	          94.10
@@ -102,4 +104,3 @@ Disponibles via la prise TV raccordée à Cablecom
 32.	  BBC World Service	      91.00
 33.	  Voice of America	     103.20
 34.	  RTL Radio France	      97.30
-</div>
