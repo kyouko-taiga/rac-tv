@@ -159,14 +159,14 @@ Disponibles via la prise TV raccordée au réseau UPC Cablecom/Naxoo
 <br />
 185 Mezzo TV
 <br />
----
+<br />
 220 CNN International
 <br />
 221 BBC World News
 <br />
 230 CNBC
 <br />
----
+<br />
 300 SRF 1 HD
 <br />
 301 SRF zwei HD
@@ -176,7 +176,6 @@ Disponibles via la prise TV raccordée au réseau UPC Cablecom/Naxoo
 303 Das Erste HD
 <br />
 304 ZDF HD
-<br />
 <br />
 305 ORF 1 HD
 <br />
@@ -212,7 +211,7 @@ Disponibles via la prise TV raccordée au réseau UPC Cablecom/Naxoo
 <br />
 337 Tele 1 HD
 <br />
----
+<br />
 350 RSI LA 1 HD
 <br />
 351 RSI LA 2 HD
@@ -233,17 +232,17 @@ Disponibles via la prise TV raccordée au réseau UPC Cablecom/Naxoo
 <br />
 360 Rai 4
 <br />
----
+<br />
 400 TRT Türk
 <br />
----
+<br />
 420 RTP Internacional
 <br />
----
+<br />
 430 TVE
 <br />
----
+<br />
 518 Teleclub Zoom
 <br />
-
+<br />
 Sous réserve de modification
