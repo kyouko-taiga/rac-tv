@@ -6,6 +6,8 @@ date: 2019-08-10T12:00:00-05:00
 type: page
 weight: 4
 ---
+<div style="text-align: right">
+
 ## Liste des chaines gratuites TNT région Genève :
 
 Suite à l'abandon des émetteurs TNT le 3 juin 2019,   **il n'est plus possible** de recevoir chaines nationales Suisse par ce mode de réception.
@@ -237,3 +239,4 @@ Disponibles via la prise TV raccordée au réseau UPC Cablecom/Naxoo
 518 Teleclub Zoom
 
 Sous réserve de modification
+</div>
