@@ -14,6 +14,8 @@ menu:
 
 **Adresse** : CP 120 – 1255 Veyrier
 
+---
+
 <br />
 ## Formulaire de contact :
 
@@ -31,6 +33,7 @@ menu:
   <button type="submit">Envoyer</button>
 </form>
 
+---
 
 ## Horaires d'ouverture :
 Lu : 8h/20h
