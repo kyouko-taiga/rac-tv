@@ -8,7 +8,8 @@ weight: 5
 ---
 ## Bande FM Genève :
 
-**Disponible sur les radios à antenne et les auto-radios**
+**Disponible avec un poste radio analogique (antenne)
+et les auto-radios**
 
 * 87.8 	  DRS1
 * 88.4 	  LFM
