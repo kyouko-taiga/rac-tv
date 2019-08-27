@@ -51,19 +51,32 @@ et les auto-radios**
 ## DAB+
 
 **Disponible avec un poste de radio numérique (DAB+)**
-
+<div style="text-align:left;">
 1.	RSI Rete Uno
+<br />
 2.	RTR Radio Rumantsch
+<br />
 3.	DRS Musikwelle
+<br />
 4.	Radio Suisse Classique
+<br />
 5.	Radio Suisse Jazz
+<br />
 6.	Radio Suisse Pop
+<br />
 7.	RSR La Première
+<br />
 8.	RSR Espace 2
+<br />
 9.	RSR Couleur 3
+<br />
 10. RSR Option Musique
+<br />
 11. WRS World Radio Switzerland
+<br />
 12. DRS 1
+<br />
+</div>
 
 ---
 
