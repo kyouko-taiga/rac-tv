@@ -8,7 +8,9 @@ weight: 4
 ---
 
 ## Liste des chaines gratuites TNT
-**région Genève :** mise à jour : 03.06.2019
+**région Genève :**
+<br />
+mise à jour : 03.06.2019
 <br />
 Suite à l'abandon des émetteurs TNT le 3 juin 2019,
 <br />
@@ -20,35 +22,64 @@ RTS1 RTS2 SF1 RSI1
 <br />
 par ce mode de réception.
 <br />
-
+<div style="text-align:left;">
 * TF1
+<br />
 * France 2
+<br />
 * France 3
+<br />
 * France 4
+<br />
 * France 5
+<br />
 * M6
+<br />
 * Arte
+<br />
 * C8
+<br />
 * W9
+<br />
 * TMC
+<br />
 * TFX
+<br />
 * NRJ 12
+<br />
 * LCP
+<br />
 * BFM TV
+<br />
 * C News
+<br />
 * C Star
+<br />
 * Gulli
+<br />
 * France Ô
+<br />
 * 6ter
+<br />
 * TF1 Séries Films
+<br />
 * RMC Story
+<br />
 * RMC Découverte
+<br />
 * Chérie 25
+<br />
 * L'équipe
+<br />
 * France Info
+<br />
 * LCI
+<br />
 * TV 8 Mont Blanc
+<br />
 * Léman Bleu
+<br />
+</div>
 
 ---
 
@@ -64,8 +95,10 @@ par ce mode de réception.
 ---
 ## Liste des chaines du câble :
 Disponibles via la prise TV raccordée au réseau UPC Cablecom/Naxoo
+<br />
 mise à jour : 27.08.2019
-
+<br />
+<div style="text-align:left;">
 1 RTS Un HD
 <br />
 2 RTS Deux HD
@@ -257,3 +290,4 @@ mise à jour : 27.08.2019
 <br />
 <br />
 Sous réserve de modification
+</div>
