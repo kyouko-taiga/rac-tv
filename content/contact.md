@@ -8,11 +8,13 @@ type: page
 menu:
   main: {}
 ---
+**RACORDON Yvan**
+CP 120 – 1255 Veyrier
+
 **Téléphone** : (079) 333-03-29
 
 **Email** :  <rac.tv.ge@gmail.com>
 
-**Adresse** : CP 120 – 1255 Veyrier
 
 ---
 
