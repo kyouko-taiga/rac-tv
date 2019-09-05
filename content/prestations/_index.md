@@ -81,10 +81,3 @@ weight: 3
 * Installation d'amplificateurs d'intérieur
 
 ---
-
-Nb de visites :
-<a href="https://www.compteurdevisite.com" title="compteur pour site">
-<div style="display: flex;justify-content: space-evenly;">
-  <img src="https://counter7.wheredoyoucomefrom.ovh/private/compteurdevisite.php?c=uy9622cxww3dscr8kc6pjnr8r7ru1n7b" border="0" title="compteur" alt="compteur" style="width: auto;">
-</div>
-</a>
