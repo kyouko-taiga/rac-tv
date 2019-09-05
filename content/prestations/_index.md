@@ -78,6 +78,7 @@ weight: 3
 * Installation d'antennes terrestre
 * Mise aux normes TNT HD
 * Modification de la distribution
+* Amplification extérieure
 * Installation d'amplificateurs d'intérieur
 
 ---
