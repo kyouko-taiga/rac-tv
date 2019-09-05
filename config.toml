@@ -1,4 +1,4 @@
-baseURL = "http://rac-tv.com/"
+baseURL = "https://rac-tv.com/"
 languageCode = "fr-ch"
 title = "Rac-TV"
 theme = "ananke"
