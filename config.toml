@@ -22,4 +22,4 @@ enableRobotsTXT = true
   featured_image = "/images/header.jpg"
   recent_posts_number = 20
   disableReadingTime = false
-  body_classes = "monospace bg-near-white"
+  body_classes = "Helvetica Neue bg-near-white"
