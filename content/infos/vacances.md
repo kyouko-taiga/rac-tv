@@ -3,7 +3,6 @@ weight: 6
 title: "Vacances annuelles"
 date: 2019-09-21T12:00:00-05:00
 ---
-**Fermeture pour vacances**
 
 Je serai absent du lundi 23 septembre au vendredi 4 octobre 2019
 ---
