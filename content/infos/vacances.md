@@ -1,6 +1,6 @@
 ---
 weight: 6
-title: "Vacances"
+title: "Vacances annuelles"
 date: 2019-09-21T12:00:00-05:00
 ---
 **Fermeture pour vacances**
@@ -13,5 +13,3 @@ Vous pouvez :
 * remplire un formulaire de contact
 
 et je vous contacterai dès mon retour
-
----
