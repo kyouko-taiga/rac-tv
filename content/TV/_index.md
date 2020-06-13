@@ -9,18 +9,16 @@ weight: 4
 
 ## Liste des chaines TNT gratuites
 
-mise à jour : 03.06.2019
+mise à jour : 15.06.2020
 <br />
 <br />
-Suite à l'abandon des émetteurs TNT le 3 juin 2019,
-<br />
-**il n'est plus possible**
-<br />
-de recevoir les chaines nationales RTS1 RTS2 SF1 RSI1
-<br />
-par ce mode de réception.
-<br />
+
 <div style="text-align:left;">
+* RTS1
+<br />
+* RTS2
+<br />
+<br />
 * TF1
 <br />
 * France 2
