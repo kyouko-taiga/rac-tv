@@ -12,7 +12,7 @@ A partir du 3 juin 2019, les programmes tv de la SSR ne seront plus diffusés pa
 Vous êtes concerné si:
 
 vous utilisez une antenne de toit ou une antenne intérieure pour capter les programmes tv de la SSR;
-après le 3 juin, seule une image fixe apparaît à l'écran, voire plus aucune image.
+après le 3 juin, seule une image fixe apparaît à l'écran, voir plus aucune image.
 
 **Que dois-je faire ?**
 
