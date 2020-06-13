@@ -6,8 +6,9 @@ date: 2019-06-03T12:00:00-05:00
 
 
 Retour de RTS1 et RTS2 sur la TNT confirmé à partir du lundi 15 juin 2020
-
+<br />
 Normalement, seuls les programmes locaux seront diffusés. 
+<br />
 Ce qui exclurait les retransmissions sportives, les films et les séries.
 
 
