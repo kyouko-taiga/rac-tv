@@ -53,7 +53,7 @@ mise à jour : 15.06.2020
 <br />
 * Gulli
 <br />
-* France Ô
+* Culturebox
 <br />
 * 6ter
 <br />
@@ -150,7 +150,7 @@ Disponibles via la prise TV raccordée au réseau UPC Cablecom/Naxoo
 <br />
 28 TV5MONDE HD
 <br />
-29 France Ô
+29 Culturebox
 <br />
 30 TF1 Séries Films HD
 <br />
