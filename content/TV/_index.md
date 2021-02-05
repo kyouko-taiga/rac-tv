@@ -9,7 +9,7 @@ weight: 4
 
 ## Liste des chaines TNT gratuites
 
-mise à jour : 15.06.2020
+mise à jour : 15.01.2021
 <br />
 <br />
 
@@ -73,7 +73,13 @@ mise à jour : 15.06.2020
 <br />
 * TV 8 Mont Blanc
 <br />
-* Léman Bleu
+* Léman Bleu HD
+  <br />
+* Rouge TV
+  <br />
+* One TV
+  <br />
+* LFM TV
 <br />
 </div>
 
