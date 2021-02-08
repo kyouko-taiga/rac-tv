@@ -1,7 +1,7 @@
 ---
 title: Contact
 description: page de contact
-featured_image: "images/headertel2.png"
+featured_image: "images/en tête2.png"
 weight: 2
 omit_header_text: true
 type: page
