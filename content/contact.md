@@ -10,7 +10,7 @@ menu:
 ---
 **RACORDON Yvan**
 <br />
-CP 120 – 1255 Veyrier
+CP 19 – 1234 Vessy
 
 **Téléphone** : (079) 333-03-29
 
