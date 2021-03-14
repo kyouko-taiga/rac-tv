@@ -21,7 +21,7 @@ CP 19 – 1234 Vessy
 
 ## Formulaire de contact :
 
-<form method="POST" action="https://formspree.io/rac.tv.ge@gmail.com">
+<form method="POST" action="https://formspree.io/f/rac.tv.ge@gmail.com">
   <input type="name" name="name" placeholder="Nom Prénom">
   <br />
   <input type="adresse" name="adresse" placeholder="Adresse">
