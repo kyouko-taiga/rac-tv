@@ -8,7 +8,7 @@ weight: 6
 ---
 Les chaines sur les differents satellites sont très nombreuses et suceptibles de changer souvent.
 
-C'est pourquoi il est plus facile d'utiliset un moteur de recherche spécifique.
+C'est pourquoi il est plus facile d'utiliser un moteur de recherche spécifique.
 
 J'utilise celui-ci :
 
