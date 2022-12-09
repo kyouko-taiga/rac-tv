@@ -11,7 +11,7 @@ weight: 3
 **Réglages**
 =============
 * Réglages TV toutes marques
-* Réglages Swisscom TV/Sunrise TV
+* Réglages Swisscom TV/Sunrise TV/Salt TV
 * Réglages HDD/DVD toutes marques
 * Réglages décodeurs TNT/câble/TVip
 * Réglages audio hifi/radio/DAB toutes marques
@@ -24,7 +24,7 @@ weight: 3
 **Installations**
 =============
 * Installation TV/enregistreurs/HDD/DVD toutes marques
-* Installation Swisscom TV/Sunrise TV
+* Installation Swisscom TV/Sunrise TV/Salt TV
 * Installation câblages intérieur TV supplémentaire
 * Installation décodeurs TNT/câble/TVip
 * Installation audio hifi/câblage HP
@@ -37,10 +37,11 @@ weight: 3
 **Explications**
 =============
 * Explications du fonctionnement TV/enregistreurs toutes marques
-* Explications Swisscom TV/Sunrise TV
+* Explications Swisscom TV/Sunrise TV7Salt TV
 * Explications Replay
 * Explications pas à pas de l'enregistrement/programmation
 * Explications hifi/radio/DAB toutes marques
+* Explications téléphones et tablettes
 
 ---
 
