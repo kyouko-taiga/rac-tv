@@ -37,7 +37,7 @@ weight: 3
 **Explications**
 =============
 * Explications du fonctionnement TV/enregistreurs toutes marques
-* Explications Swisscom TV/Sunrise TV/Salt TV
+* Explications Swisscom TV/Sunrise TV/SaltTV
 * Explications Replay
 * Explications pas à pas de l'enregistrement/programmation
 * Explications hifi/radio/DAB toutes marques
