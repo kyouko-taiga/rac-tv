@@ -11,7 +11,7 @@ weight: 3
 **Réglages**
 =============
 * Réglages TV toutes marques
-* Réglages Swisscom TV/Sunrise TV/Salt TV
+* Réglages Swisscom TV/Sunrise TV/Salt TV 
 * Réglages HDD/DVD toutes marques
 * Réglages décodeurs TNT/câble/TVip
 * Réglages audio hifi/radio/DAB toutes marques
